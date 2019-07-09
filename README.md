@@ -1,4 +1,5 @@
 # Online Shopper
++ This is compatible with Python 2.xx, it will throw errors in Python 3 and up
 
 First year unit, IFB104: Building IT Systems Assignment 2 (QUT). 
 
